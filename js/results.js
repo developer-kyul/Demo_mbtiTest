@@ -21,6 +21,3 @@ boxEls.forEach(function (boxEl, index) {
 jobEls.forEach(function (jobEl, index) {
   jobEl.innerHTML = result.jobs[index]
 })
-
-// lectureEl.href = result.lectureUrl
-// lectureImgEl.src = result.lectureImg
